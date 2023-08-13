@@ -1,8 +1,4 @@
-# 数学公式检测
-
-> 北京航空航天大学
->
-> 张杰宣
+# MFD-段落间数学公式检测
 
 ## 简单使用
 
@@ -16,6 +12,8 @@
   dir_origin_path = 'pdf_img'
   dir_save_path = "pdf_img_out"
   ```
+
+权重文件请点此进行下载 : [Weights](https://pan.baidu.com/s/11AVlJusV9zSVCktboz9T0w)。下载后请将权重文件放置在 config 文件夹下。
 
 ## 类别以及框的颜色
 
