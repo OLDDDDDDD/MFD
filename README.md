@@ -13,7 +13,7 @@
   dir_save_path = "pdf_img_out"
   ```
 
-权重文件请点此进行下载 : [Weights](https://pan.baidu.com/s/11AVlJusV9zSVCktboz9T0w)。下载后请将权重文件放置在 config 文件夹下。
+权重文件请点此进行下载 : [Weights](https://pan.baidu.com/s/11AVlJusV9zSVCktboz9T0w) 提取码:nn33。下载后请将权重文件放置在 config 文件夹下。
 
 ## 类别以及框的颜色
 
